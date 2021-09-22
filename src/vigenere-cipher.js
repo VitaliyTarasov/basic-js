@@ -29,3 +29,4 @@ export default class VigenereCipheringMachine {
     // remove line with error and write your code here
   }
 }
+
