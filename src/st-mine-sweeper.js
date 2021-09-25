@@ -24,7 +24,7 @@ import { NotImplementedError } from '../extensions/index.js';
  * ]
  */
 export default function minesweeper(matrix) {
-  let count = [];
+  const count = [];
 
   for (let i = 0; i < matrix.length; i++) {
     count.push([]);
